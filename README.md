@@ -1,4 +1,4 @@
-# Você sabe o que é MARKDOW???
+# Você sabe o que é MARKDOWN???
 
 "Nunca vi, nem comi eu só ouço falar..."
 
